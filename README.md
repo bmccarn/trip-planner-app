@@ -22,7 +22,7 @@ This is a mobile application built with AWS Amplify and Flutter for iOS and Andr
 
 To run the app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/trip-planner-app.git`
+1. Clone the repository: `git clone https://github.com/bmccarn/trip-planner-app.git`
 2. Install Flutter: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 3. Set up AWS Amplify: [AWS Amplify Documentation](https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter)
 4. Configure the app with your AWS Amplify credentials
