@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifytripsplanner-dev-110625-authRole",
+      "UnauthRoleArn": "arn:aws:iam::745783987008:role/amplify-amplifytripsplanner-dev-110625-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::745783987008:role/amplify-amplifytripsplanner-dev-110625-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifytripsplanner-dev-110625-deployment",
+      "UnauthRoleName": "amplify-amplifytripsplanner-dev-110625-unauthRole",
+      "StackName": "amplify-amplifytripsplanner-dev-110625",
+      "StackId": "arn:aws:cloudformation:us-east-1:745783987008:stack/amplify-amplifytripsplanner-dev-110625/5b5fd730-bec0-11ee-acbb-0ac1282a04e3",
+      "AmplifyAppId": "d3r2b5ugx6c5ub"
+    },
+    "categories": {
+      "auth": {
+        "amplifytripsplanner518c361e": {}
+      },
+      "api": {
+        "amplifytripsplanner": {}
+      }
+    }
+  }
+}
