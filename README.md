@@ -2,7 +2,7 @@
 
 This is a mobile application built with AWS Amplify and Flutter for iOS and Android.
 
-## Features
+## Features (Some still in development)
 
 - Plan and organize your trips
 - Create a list of destinations and activities
